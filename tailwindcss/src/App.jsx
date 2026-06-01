@@ -20,11 +20,13 @@ export default App;*/
 
 
 import Tailwind1 from "./tailwind1";
+import Tailwindgrid from "./tailwindgrid";
 
 function App (){
   return(
     <>
     <Tailwind1/>
+    <Tailwindgrid/>
     </>
   )
 }
