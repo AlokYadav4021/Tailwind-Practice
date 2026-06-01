@@ -1,4 +1,4 @@
-function App() {
+/*function App() {
   return (
     <div>
       <div className="bg-amber-300 m-5">
@@ -8,6 +8,12 @@ function App() {
       </div>
     </div>
   );
+}*/
+
+function App() {
+  return <div className="bg-blue-200 mb-10">
+    <p className="text-xl font-semibold text-center text-green-500">Hello World</p>
+  </div>;
 }
 
 export default App;
